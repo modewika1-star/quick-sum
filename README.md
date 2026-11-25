@@ -1,6 +1,6 @@
 # QuickSum | Add Two Numbers
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://javascript-addition-2-mjs.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://javascript-addition.vercel.app/)
 
 A beginner JavaScript exercise that reads two numeric inputs, adds them, and displays the result on the page.
 
